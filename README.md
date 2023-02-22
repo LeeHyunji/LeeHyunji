@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->  
-<center>
+<div align="center">
   
-## Hi there 👋
-I'm Hyunji
+### Hi there 👋
+I'm LeeHyunji.
 
 <br>
 
@@ -35,8 +35,10 @@ Techs that i've used at least once
   
 ## :speech_balloon: Contact :speech_balloon:
 
-Email. <a href="mailto:hyunji@gmail.com">hyunji@gmail.com</a>
+Email. <a href="mailto:hyunji015@gmail.com">hyunji015@gmail.com</a>
 
-Blog.
+<br> 
 
+### Thank you
+![](https://komarev.com/ghpvc/?username=LeeHyunji&label=VIEWS&style=badge&color=bd93f9)
 </center>
