@@ -31,11 +31,12 @@ Techs that i've used at least once
 
  <img src="https://img.shields.io/badge/Amazon-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
 
+<br>  
+  
 ## :speech_balloon: Contact :speech_balloon:
-
-</center>
 
 Email. <a href="mailto:hyunji@gmail.com">hyunji@gmail.com</a>
 
 Blog.
 
+</center>
